@@ -1,5 +1,12 @@
 # KlasChain
 
+## CONTRACT ID:
+CCQW5B4IUX5J2ZBAFOV5J4WXRGXV2OTMXEMM7NAHB6BPYAIDAOWYWUNL
+
+## CONTRACT LINK:
+https://stellar.expert/explorer/testnet/contract/CCQW5B4IUX5J2ZBAFOV5J4WXRGXV2OTMXEMM7NAHB6BPYAIDAOWYWUNL
+![PICTURE](Stellar_Mandap.png)
+
 KlasChain is a peer-to-peer student micro-UBI network where a campus community pools small weekly USDC contributions into a Soroban contract that redistributes the total pool equally to all active members every week.
 
 ## Problem & Solution
